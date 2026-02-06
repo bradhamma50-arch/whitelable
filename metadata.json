@@ -1,0 +1,7 @@
+{
+  "name": "whitelabletryonn",
+  "description": "Multi-region virtual try-on supporting tops, pants, and full outfits with mix-and-match capabilities and white-label enterprise logic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
